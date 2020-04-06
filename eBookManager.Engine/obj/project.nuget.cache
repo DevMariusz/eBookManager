@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6iCD4RUDheHfLJ0E9b2/pG3CUVOvkoxHIZvj+7FLFuX9Z+jXp2aFVIo9TRf+XYZjFGuHdQTb0Podb2a7zzMMBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mariusz\\Desktop\\GitHub Projects\\eBookManager\\eBookManager.Engine\\eBookManager.Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariusz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
