@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "vW5tGmevMnZU6tP+SIzUDp5LPBbszYYz2srqpsz8WHWxC5MNTYPOR0+030oPSBN/we085lTtRR2bHcK0+oNTXg==",
+  "dgSpecHash": "yBy0XoSmhtkmUEPJ/jPXbrWpU/rusKVRNXe8Iz9vQy8PG2YBaOn45miHfeMbxlayGyjoFTXU+q4O4E4UXTt+Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mariusz\\Desktop\\GitHub Projects\\eBookManager\\eBookManager.Helper\\eBookManager.Helper.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Mariusz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\Mariusz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Mariusz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Mariusz\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

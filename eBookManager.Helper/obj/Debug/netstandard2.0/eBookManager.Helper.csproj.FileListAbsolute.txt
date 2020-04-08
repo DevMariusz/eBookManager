@@ -1,0 +1,4 @@
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\bin\Debug\netstandard2.0\eBookManager.Engine.dll
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.csprojAssemblyReference.cache
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.AssemblyInfoInputs.cache
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.AssemblyInfo.cs

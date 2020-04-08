@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9rCK+/XZYi96ie09jgjJejiNIvbW9Dhpsdifu5VEFq3UWCeAiCqC2LFkE1Mkh/QcuHTzsPb66PE18meOoxiZtw==",
+  "dgSpecHash": "4ZWwR8zicV0sbvV3IBrds7e93iY9WtXiToUXyJ7P8MI6fnoqbBF2IHkAMYKJyL9NACfwpmVF7BytFdeyi4uPOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mariusz\\Desktop\\GitHub Projects\\eBookManager\\eBookManager\\eBookManager.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Mariusz\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
