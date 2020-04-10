@@ -2,3 +2,11 @@ C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\bin\De
 C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.csprojAssemblyReference.cache
 C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.AssemblyInfoInputs.cache
 C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.AssemblyInfo.cs
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\bin\Debug\netstandard2.0\eBookManager.Helper.deps.json
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\bin\Debug\netstandard2.0\eBookManager.Helper.dll
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\bin\Debug\netstandard2.0\eBookManager.Helper.pdb
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\bin\Debug\netstandard2.0\eBookManager.Engine.pdb
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.csproj.CopyComplete
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.dll
+C:\Users\Mariusz\Desktop\GitHub Projects\eBookManager\eBookManager.Helper\obj\Debug\netstandard2.0\eBookManager.Helper.pdb
